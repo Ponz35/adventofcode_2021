@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c14ca2ce-3e63-4bd9-8f39-62867db6d02f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day2/src/com/company/Position.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day2/src/com/company/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day2/src/com/company/Position.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -72,7 +72,8 @@
       <workItem from="1638437949998" duration="7639000" />
       <workItem from="1638452418962" duration="1908000" />
       <workItem from="1638464732513" duration="268000" />
-      <workItem from="1638465124740" duration="1848000" />
+      <workItem from="1638465124740" duration="1849000" />
+      <workItem from="1638473751109" duration="957000" />
     </task>
     <servers />
   </component>
@@ -84,11 +85,11 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1638446100979" />
-    <state x="632" y="127" key="FileChooserDialogImpl" timestamp="1638464995923">
+    <state x="632" y="127" key="FileChooserDialogImpl" timestamp="1638474194061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="421" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1638452341414" />
-    <state x="632" y="127" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1638464995923" />
+    <state x="632" y="127" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1638474194061" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1638455306044">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

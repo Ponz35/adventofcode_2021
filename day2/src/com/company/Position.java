@@ -38,24 +38,27 @@ public class Position {
     }
 
     public int calcul (ArrayList<String> position, ArrayList<Integer> number){
-        int horizontal = 0, depth = 0, total = 0;
+        int horizontal = 0, depth = 0, total = 0, aim = 0;
         for (int i = 0; i<number.size(); i++){
             String p = position.get(i);
             int n = number.get(i);
             switch (p){
                 case "forward":
+                    depth += (aim*n);
                     horizontal += n;
                     break;
                 case "down":
-                    depth += n;
+                    aim += n;
                     break;
                 case "up":
-                    depth -= n;
+                    aim -= n;
                     break;
             }
 
         }
-        return total = horizontal*depth;
+        total = horizontal*depth;
+        System.out.println(total);
+        return total;
     }
 
 
